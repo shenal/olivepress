@@ -11,4 +11,7 @@ public class olive {
     public void crush(){
         System.out.println("ouch");
     }
+    public void squeeze(){
+        System.out.println("squeeze");
+    }
 }
