@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="olivepress:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/olivepress_jar</output-path>
+    <root id="archive" name="olivepress.jar">
+      <element id="module-output" name="olivepress" />
+    </root>
+  </artifact>
+</component>
